@@ -1,0 +1,4 @@
+- insert:
+    - id: repomix
+      name: dsh-repomix
+      config: {}
